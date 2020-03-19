@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <title></title>
+    <script src="js/mui.min.js"></script>
+    <link href="css/mui.min.css" rel="stylesheet"/>
+    <script type="text/javascript" charset="utf-8">
+      	mui.init();
+    </script>
+	<link rel="stylesheet" href="lib/iconfont.css">
+</head>
+<body>
+	<header class="mui-bar mui-bar-nav" style="background-color: #007AFF;">
+		<h1 class="mui-title" style="color: #EAFFEA;" >朋友</h1>
+	</header>
+<div class="mui-content">
+	<li class="mui-table-view-cell mui-media">
+		<a href="javascript:;">
+			<img class="mui-media-object mui-pull-left" src="https://github.com/ziyeqingying/sucaiimg/blob/master/friends_icon1.png">
+			<div class="mui-media-body">
+				生活号
+				<p class="mui-ellipsis">钉钉更新了</p>
+			</div>
+		</a>
+	</li>
+
+</div>
+	<div class="mui-content">
+		<ul class="mui-table-view">
+			<li class="mui-table-view-cell mui-media">
+				<a href="javascript:;">
+					<img class="mui-media-object mui-pull-left" src="https://github.com/ziyeqingying/sucaiimg/blob/master/friends_icon4.png">
+					<div class="mui-media-body">
+						服务提醒（含支付助手）
+						<p class="mui-ellipsis">空气污染，送健康果喽！</p>
+					</div>
+				</a>
+			</li>
+			<li class="mui-table-view-cell mui-media">
+				<a href="javascript:;">
+					<img class="mui-media-object mui-pull-left" src="https://github.com/ziyeqingying/sucaiimg/blob/master/friends_icon5.png">
+					<div class="mui-media-body">
+						蚂蚁财富
+						<p class="mui-ellipsis">您有财富开运红包待领取</p>
+					</div>
+				</a>
+			</li>
+			<li class="mui-table-view-cell mui-media">
+				<a href="javascript:;">
+					<img class="mui-media-object mui-pull-left" src="https://github.com/ziyeqingying/sucaiimg/blob/master/friends_icon6.png">
+					<div class="mui-media-body">
+					   手机充值
+						<p class="mui-ellipsis">快开学的你是否也有这样得苦恼</p>
+					</div>
+				</a>
+			</li>
+			<li class="mui-table-view-cell mui-media">
+				<a href="javascript:;">
+					<img class="mui-media-object mui-pull-left" src="https://github.com/ziyeqingying/sucaiimg/blob/master/friends_icon7.png">
+					<div class="mui-media-body">
+					   浦发银行信用卡
+						<p class="mui-ellipsis">[消息提醒]您有一波半价美食待领取</p>
+					</div>
+				</a>
+			</li>
+			<li class="mui-table-view-cell mui-media">
+				<a href="javascript:;">
+					<img class="mui-media-object mui-pull-left" src="https://github.com/ziyeqingying/sucaiimg/blob/master/friends_icon8.png">
+					<div class="mui-media-body">
+					   浦发银行信用卡
+						<p class="mui-ellipsis">[消息提醒]您有一波半价美食待领取</p>
+					</div>
+				</a>
+			</li>
+		</ul>
+	</div>
+		<nav class="mui-bar mui-bar-tab">
+			<a class="mui-tab-item mui-active">
+				<span class="icon iconfont icon-zhifubaob"></span>
+				<span class="mui-tab-label">首页</span>
+			</a>
+			<a class="mui-tab-item">
+				<span class="icon iconfont icon-caifua"></span>
+				<span class="mui-tab-label">财富</span>
+			</a>
+			<a class="mui-tab-item">
+				<span class="icon iconfont icon-gouwu"></span>
+				<span class="mui-tab-label">口碑</span>
+			</a>
+			<a class="mui-tab-item">
+				<span class="iconfont icon-shejiao"></span>
+				<span class="mui-tab-label">朋友</span>
+			</a>
+			<a class="mui-tab-item">
+				<span class="icon iconfont icon-changbei"></span>
+				<span class="mui-tab-label">我的</span>
+			</a>
+		</nav>
+	
+</body>
+</html>
